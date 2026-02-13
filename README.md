@@ -41,5 +41,8 @@ The dataset contains 1470 employee records and includes features such as:
 - Operational roles show higher attrition than managerial roles.
 
 ## Visualizations:
+### Age vs Attrition
+
+![Age vs Attrition](age_vs_attrition_plot.png)
 
 
