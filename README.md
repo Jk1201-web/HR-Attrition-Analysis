@@ -56,31 +56,31 @@ The dataset contains 1470 employee records and includes features such as:
 - Operational roles show higher attrition than managerial roles.
 
 ## Visualizations:
-### Age vs Attrition
+#### Age vs Attrition
 
 ![Age vs Attrition](age_vs_attrition_plot.png)
 
 - The plot shows that younger employees have a higher attrition rate compared to older employees. This suggests early-career employees are more likely to leave the organization.
 
-### Monthly Income vs Attrition
+#### Monthly Income vs Attrition
 
 ![Monthly income vs Attrition](monthlyincome_vs_attrition.png)
 
 - Employees with lower monthly income show higher attrition compared to higher-paid employees, indicating compensation may be a key factor influencing employee turnover.
 
-### OverTime vs Attrition
+#### OverTime vs Attrition
 
 ![Over Time vs Attrition](overtime_vs_attrition.png)
 
 - Employees who work overtime have significantly higher attrition than those who do not. This suggests workload and work-life balance are important factors affecting employee retention.
 
-### Job Role vs Attrition
+#### Job Role vs Attrition
 
 ![Job Role vs Attrition](jobrole_vs_attrition.png)
 
 - Some operational roles show higher attrition compared to managerial positions, indicating that job role and responsibilities may influence employee turnover.
 
-### Correlation Heatmap
+#### Correlation Heatmap
 
 ![Correlation Heatmap](correlation_heatmap.png)
 
