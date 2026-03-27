@@ -11,7 +11,7 @@
    - [Correlation Heatmap](https://github.com/Jk1201-web/HR-Attrition-Analysis#correlation-heatmap)
 - [Project structure](https://github.com/Jk1201-web/HR-Attrition-Analysis#project-structure)
 - [Conclusion](https://github.com/Jk1201-web/HR-Attrition-Analysis#conclusion)
-- [Connect with me]
+- [Connect with me](https://github.com/Jk1201-web/HR-Attrition-Analysis/blob/main/README.md#connect-with-me)
 ## Project Overview
 Employee attrition is a major challenge for organizations.
 This project performs Exploratory Data Analysis (EDA) on an HR dataset to identify patterns and key factors influencing employee turnover.
