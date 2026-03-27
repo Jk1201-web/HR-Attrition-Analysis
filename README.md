@@ -101,9 +101,10 @@ HR-Attrition-Analysis
 The analysis indicates that overtime workload, compensation level, and employee experience are major factors influencing attrition.
 Organizations can reduce attrition by improving work-life balance, employee engagement, and compensation strategies.
 
-## Author:
-Jijau Khandale
-Aspiring Data Analyst
-Skills: Python | Pandas | Matplotlib | Seaborn | Data Visualization
+## Connect with me
+- [LinkedIn](www.linkedin.com/in/jijau-khandale)
+- [GitHub](https://github.com/Jk1201-web)
+- [Kaggle](https://www.kaggle.com/jijaumohankhandale)
+
 
 
