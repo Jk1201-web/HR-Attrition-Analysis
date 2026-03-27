@@ -12,6 +12,9 @@
 - [Project structure](https://github.com/Jk1201-web/HR-Attrition-Analysis#project-structure)
 - [Conclusion](https://github.com/Jk1201-web/HR-Attrition-Analysis#conclusion)
 - [Connect with me](https://github.com/Jk1201-web/HR-Attrition-Analysis/blob/main/README.md#connect-with-me)
+   - [LinkedIn](www.linkedin.com/in/jijau-khandale)
+   - [GitHub](https://github.com/Jk1201-web)
+   - [Kaggle](https://www.kaggle.com/jijaumohankhandale) 
 ## Project Overview
 Employee attrition is a major challenge for organizations.
 This project performs Exploratory Data Analysis (EDA) on an HR dataset to identify patterns and key factors influencing employee turnover.
