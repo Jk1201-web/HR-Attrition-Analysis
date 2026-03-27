@@ -1,5 +1,17 @@
 # HR Attrition Analysis using Python
-
+- [Overview](https://github.com/Jk1201-web/HR-Attrition-Analysis#project-overview)
+- [Tools used](https://github.com/Jk1201-web/HR-Attrition-Analysis#tools-used)
+- [Dataset](https://github.com/Jk1201-web/HR-Attrition-Analysis#dataset)
+- [Project workflow](https://github.com/Jk1201-web/HR-Attrition-Analysis#project-workflow)
+- [Visualization](https://github.com/Jk1201-web/HR-Attrition-Analysis#key-insights)
+   - [Age Vs Attrition](https://github.com/Jk1201-web/HR-Attrition-Analysis#age-vs-attrition)
+   - [Monthly income Vs Attrition](https://github.com/Jk1201-web/HR-Attrition-Analysis#monthly-income-vs-attrition)
+   - [Overtime Vs Attrition](https://github.com/Jk1201-web/HR-Attrition-Analysis#overtime-vs-attrition)
+   - [Jobrole Vs Attrition](https://github.com/Jk1201-web/HR-Attrition-Analysis#job-role-vs-attrition)
+   - [Correlation Heatmap](https://github.com/Jk1201-web/HR-Attrition-Analysis#correlation-heatmap)
+- [Project structure](https://github.com/Jk1201-web/HR-Attrition-Analysis#project-structure)
+- [Conclusion](https://github.com/Jk1201-web/HR-Attrition-Analysis#conclusion)
+- [Connect with me]
 ## Project Overview
 Employee attrition is a major challenge for organizations.
 This project performs Exploratory Data Analysis (EDA) on an HR dataset to identify patterns and key factors influencing employee turnover.
